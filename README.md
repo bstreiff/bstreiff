@@ -1,0 +1,6 @@
+- 👋 Hi, I'm Brenda.
+- 😄 My pronouns are she/her.
+- 🔭 I write code primarily for embedded systems, which these days means kernel and distro support for Linux.
+- 📟 In the past I've drivers and firmware for Windows, OS X, and various bare-metal systems.
+- 🌱 My hobbies include gaming, reverse-engineering old software, and 3D printing.
+- 🍓 I have collected 166 strawberries.
